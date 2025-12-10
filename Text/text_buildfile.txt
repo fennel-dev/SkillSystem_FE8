@@ -11,6 +11,26 @@ Set health bar display[X]
 # 0x04F1
 Wpn[.][X]
 
+//start weapon rank names
+# 0x052D
+[.][X]
+
+# 0x052E
+[.][X]
+
+# 0x052F
+[.][X]
+
+# 0x0530
+[.][X]
+
+# 0x0531
+[.][X]
+
+# 0x0532
+[.][X]
+//end weapon rank names
+
 # 0x0551
 Weapon type usable[NL]
 by the unit.[.][X]
